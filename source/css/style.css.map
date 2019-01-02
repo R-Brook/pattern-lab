@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,CAAE;EACD,WAAW,EAJL,eAAe",
+"sources": ["../scss/utilities/_variables.scss"],
+"names": [],
+"file": "style.css"
+}
